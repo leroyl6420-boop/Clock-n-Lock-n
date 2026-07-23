@@ -28,4 +28,4 @@ I CADed the Stepper mount and the wheel that will push the paper through the slo
 
 I coded and built the first prototype of the Clock'n Lock'n! I just had one position detection module and the movement module for now. The code was pretty simple, just a continuously spinning motor and a reading photoresistor. I think that I need a two-point axle for the movement module, as it was too flimsy and wouldn't hold in place. The position detection system worked well, as it gave a 32-unit difference between the punches. I need to make the case larger to fit an internal puncher and the movement module's second axle point. In the meantime, the test worked well!
 
-![An image of the first test of the Clock'n Lock'n](Images/IMG_0251.HEIC)
+![An image of the first test of the Clock'n Lock'n](https://github.com/leroyl6420-boop/Clock-n-Lock-n/blob/main/Images/IMG_0251.HEIC)
