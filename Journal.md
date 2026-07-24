@@ -58,3 +58,11 @@ I built the first prototype of the Clock'n Lock'n! I couldn't figure out the sta
 I CADed a system to automatically punch holes in the paper! I did a lot of brainstorming, and I landed on a small pin with a rounded head that a cam would push onto. I modeled the bulk of it already, but I need to do some real-world testing before making any more decisions. I'm using a spring to hold the pin up, which is hard to model around. I also had to move the roof higher to fit the 28BYJ-48 stepper motor that I'm adding back, which sucks because I want to make this device as small as possible. Still, I'm telling myself that it was necessary, because the roof is now full of stuff and I can't put the buttons/LEDs that I was planning to add there. Instead, I'll have to add them onto the elongated face. 
 
 ![An Image of the Clock'n Lock'n with the punch system modeled](Images/CILI5.png)
+
+# Devlog 9
+1h Logged
+
+I CADed a test case (without walls) to test the punch system while saving time and filament. I also CADed the puncher that I'll use to punch the 10 pre-punched holes into the index card. A lot of work, not a lot of words. 
+
+![An image of the index card puncher](Images/CILI6.png)
+![An image of the test case](Images/CILI7.png)
