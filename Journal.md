@@ -66,3 +66,16 @@ I CADed a test case (without walls) to test the punch system while saving time a
 
 ![An image of the index card puncher](Images/CILI6.png)
 ![An image of the test case](Images/CILI7.png)
+
+# Devlog 10
+
+
+Long working session! Lost track of time, I would have made seperate devlogs, but I'll just split this one into a software section and a hardware section. The software section goes first!
+
+I coded the OLEDS into the Main file, and I coded the 28BYJ-48 Stepper Motor into both the Main file and the Test file. I coded some more logic into the Main file as well, like the paper positioning, the hole punching due to the hour count, etc. I was informed that each OLED screen will need 1024 bytes of RAM, but the Arduino Uno R3 only has 2000 available for the both of them. This means that I will need to work with a library that will lower the RAM usage in exchange for slower rendering times. I'm not worried about this, as the OLEDs' main function will be a clock and a progress bar. 
+
+I printed out the testing case and attached the stepper motor with its cam gear. It seems that, while all dimensions are perfect in my model, the same can't be said in real life. Thankfully, I have prepared for this. I can fix the dimensioning problem by simply elongating the pin's length. However, I do need to fix the issue of the cam pushing the pin to its side instead of down. I will do this by modeling a wall for the pin to slide against. 
+
+![An image of the hole-punching mechanism's testing model](Images/IMG_0261.JPG)
+![An image of the holes the hole-punching mechanism made in the paper](Images/CILI8.png)
+![An image of the test case with the stepper motor, its cam gear, the pin, and the pin's spring](Images/IMG_0262.JPG)
