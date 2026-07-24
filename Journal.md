@@ -68,7 +68,7 @@ I CADed a test case (without walls) to test the punch system while saving time a
 ![An image of the test case](Images/CILI7.png)
 
 # Devlog 10
-
+2h 17min Logged
 
 Long working session! Lost track of time, I would have made seperate devlogs, but I'll just split this one into a software section and a hardware section. The software section goes first!
 
