@@ -79,3 +79,10 @@ I printed out the testing case and attached the stepper motor with its cam gear.
 ![An image of the hole-punching mechanism's testing model](Images/IMG_0261.JPG)
 ![An image of the holes the hole-punching mechanism made in the paper](Images/CILI8.png)
 ![An image of the test case with the stepper motor, its cam gear, the pin, and the pin's spring](Images/IMG_0262.JPG)
+
+# Devlog 11
+2h 3min Logged
+
+Another long stretch of work! I may not need a Clock'n Lock'n after all ;) I mostly finished the cam system, added the final touches to the case's CAD, worked on the puncher, and did more coding in the Main file. I need to figure out a way to make a progress bar! It's my first time working with two OLED screens. 
+
+![An image of the updated hole-punching mechanism](Images/IMG_0263.JPG)
