@@ -108,3 +108,12 @@ I finished coding the Clock'n Lock'n! Well, at least the first complete version 
 I built part of the final Clock'n Lock'n! I got the LEDs and photoresistors soldered and glued in, along with both the servo motor and the stepper motor. I think I may finish it tomorrow! Here's a picture of the work thus far:
 
 ![Exactly what I said up there](Images/IMG_0267.JPG)
+
+# Devlog 15
+1h 47min Logged
+
+I built most of the Clock'n Lock'n! I had to solder wires to the two remaining LEDs and the two buttons, and I had to do a bunch of wiring for all the parts. I decided to put the breadboard in the main chamber and the Arduino Uno R3 with the ULN2003 into the back chamber. Things are really cramped and sometimes it's hard to get wires where they need to go, but I'm managing. I still need to wire the OLEDs and the LEDs and buttons on the face. 
+
+![A picture of the in-progress Lock'n Clock'n](Images/IMG_0268.JPG)
+![A close-up picture of the breadboard](Images/IMG_0269.JPG)
+![A picture of the exposed back compartment, with the ULN2003 and the Arduino Uno R3](Images/IMG_0270.JPG)
