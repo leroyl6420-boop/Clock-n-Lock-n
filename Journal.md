@@ -100,4 +100,4 @@ I diagnosed the puncher's issue as the cam gear pushing the pin down too fast. T
 
 I finished coding the Clock'n Lock'n! Well, at least the first complete version of it. I'll probably be back fixing bugs before I know it. I added the screen displays, the punching system, the movement system, and the positioning logic. I'm currently printing out all the parts of the Clock'n Lock'n, I can't wait to try the code out!
 
-![An image of the printed Clock'n Lock'n face](Images/IMG_0265.JPG)
+![An image of the printed Clock'n Lock'n face](Images/IMG_0266.JPG)
