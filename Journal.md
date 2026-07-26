@@ -117,3 +117,10 @@ I built most of the Clock'n Lock'n! I had to solder wires to the two remaining L
 ![A picture of the in-progress Lock'n Clock'n](Images/IMG_0268.JPG)
 ![A close-up picture of the breadboard](Images/IMG_0269.JPG)
 ![A picture of the exposed back compartment, with the ULN2003 and the Arduino Uno R3](Images/IMG_0270.JPG)
+
+# Devlog 16
+1h 26min Logged
+
+I wired all of the components of the Clock'n Lock'n! It's almost fully built, even if I had to resolder some wires and reattach some jumpers. It's getting really sketchy, and when I tried putting the face on, it wouldn't fit! The same happened when I tried putting the back case on. To remedy this, I CADed a face and a back case which have taller walls. In the meantime, the Clock'n Lock'n is looking promising!
+
+![A picture of the mostly-completed Clock'n Lock'n](Images/IMG_0277.JPG)
