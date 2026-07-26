@@ -101,3 +101,10 @@ I diagnosed the puncher's issue as the cam gear pushing the pin down too fast. T
 I finished coding the Clock'n Lock'n! Well, at least the first complete version of it. I'll probably be back fixing bugs before I know it. I added the screen displays, the punching system, the movement system, and the positioning logic. I'm currently printing out all the parts of the Clock'n Lock'n, I can't wait to try the code out!
 
 ![An image of the printed Clock'n Lock'n face](Images/IMG_0266.JPG)
+
+# Devlog 14
+1h 2min Logged
+
+I built part of the final Clock'n Lock'n! I got the LEDs and photoresistors soldered and glued in, along with both the servo motor and the stepper motor. I think I may finish it tomorrow! Here's a picture of the work thus far:
+
+![Exactly what I said up there](Images/IMG_0267.JPG)
