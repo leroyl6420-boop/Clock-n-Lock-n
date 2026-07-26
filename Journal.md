@@ -94,3 +94,10 @@ Another long stretch of work! I may not need a Clock'n Lock'n after all ;) I mos
 I diagnosed the puncher's issue as the cam gear pushing the pin down too fast. To slow the process down, I replaced the cam gear with a spiral gear. It distributes the 4mm push across the entire circumference. I also added supports beneath the paper chute to hold it up while the pusher pushes down. Though the punched hole is smaller than I intended, I am just glad that it works. 
 
 ![An image of the test case with the spiral gear attached instead of the cam gear](Images/IMG_0265.JPG)
+
+# Devlog 13
+1h 55min Logged
+
+I finished coding the Clock'n Lock'n! Well, at least the first complete version of it. I'll probably be back fixing bugs before I know it. I added the screen displays, the punching system, the movement system, and the positioning logic. I'm currently printing out all the parts of the Clock'n Lock'n, I can't wait to try the code out!
+
+![An image of the printed Clock'n Lock'n face](Images/IMG_0265.JPG)
