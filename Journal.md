@@ -93,4 +93,4 @@ Another long stretch of work! I may not need a Clock'n Lock'n after all ;) I mos
 
 I diagnosed the puncher's issue as the cam gear pushing the pin down too fast. To slow the process down, I replaced the cam gear with a spiral gear. It distributes the 4mm push across the entire circumference. I also added supports beneath the paper chute to hold it up while the pusher pushes down. Though the punched hole is smaller than I intended, I am just glad that it works. 
 
-![An image of the test case with the spiral gear attached instead of the cam gear](Images/IMG_0264.JPG)
+![An image of the test case with the spiral gear attached instead of the cam gear](Images/IMG_0265.JPG)
