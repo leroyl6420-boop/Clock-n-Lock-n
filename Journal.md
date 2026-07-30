@@ -124,3 +124,10 @@ I built most of the Clock'n Lock'n! I had to solder wires to the two remaining L
 I wired all of the components of the Clock'n Lock'n! It's almost fully built, even if I had to resolder some wires and reattach some jumpers. It's getting really sketchy, and when I tried putting the face on, it wouldn't fit! The same happened when I tried putting the back case on. To remedy this, I CADed a face and a back case which have taller walls. In the meantime, the Clock'n Lock'n is looking promising!
 
 ![A picture of the mostly-completed Clock'n Lock'n](Images/IMG_0277.JPG)
+
+# Devlog 17
+1h 45min 10sec Logged
+
+I debugged the code and added slots for the screws in the CAD models. Not a ton to say. Really took a long time, though. I guess this is a good sign that I'm getting to these things, I think it means I'm nearing completion (:
+
+![The front face's CAD model with slots for the screws](Images/CILI9.png)
