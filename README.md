@@ -46,11 +46,14 @@ Here is everything you need to buy off Amazon, AliExpress, and Temu:
 - 4 220 ohm Resistors: $0.20
 - 2 1K ohm Resistors: $0.10
 - 2 Photoresistors: $1
-- 8 #6-32 1in Screws: $1.57
+- 10 #6-32 1in Screws: $1.57
 - Jumper Wires: Will Vary
 
 In total, everything will run you around $23.86, definitely less than $30 (: 
 
 # ASSEMBLY INSTRUCTIONS
 
-Hot-glue the Arduino and the ULN2003 onto the back of the case. 
+Hot-glue the Arduino and the ULN2003 onto the back of the case. Hot glue the Servo motor onto its mount. Screw the 28BYJ-48 Stepper Motor onto its mount using two #6-32 screws. Attach the Servo Gear onto the Servo motor. Attach the Spiral Gear onto the Stepper motor. Put the pin in its slot with a pen's spring pushing it up. Hot glue all the LEDs, buttons, OLEDs, and photoresistors into place. Connect one leg of every LED and photoresistor to GND. Every LED's other leg goes to a 220 ohm resistor, then their digital pin (see in code). The photoresistors go to a 10k ohm resistor, then their analog pin (see code). Wire everything else as stated in code. Congrats, you have just built your very own Clock'n Lock'n!
+
+# AI USE
+AI was used to debug the code. 
