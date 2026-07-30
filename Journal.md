@@ -137,4 +137,4 @@ I debugged the code and added slots for the screws in the CAD models. Not a ton 
 
 I finished the Clock'n Lock'n! I printed the updated face and back case, and everything fits! The time tracking works well, and the punching does too, even if it could be a little more accurate. It seems I'll have to give any machine that takes the completed index cards plenty of margin. I'll be shipping the project now! YAY!
 
-![The finished Clock'n Lock'n!](Images/IMG_0296.JPG)
+![The finished Clock'n Lock'n!](Images/IMG_0293.JPG)
